@@ -10,8 +10,6 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.*;
 
-/* Programmer Brian Kies */
-
 public class BottomPanel extends JPanel
 {
     int flagWidth, flagHeight;
@@ -22,7 +20,7 @@ public class BottomPanel extends JPanel
     ImageIcon icon, scaledIcon;
     Image img, imgScale;
     BottomPanel bp;
-    String WhichFlag; // will hold string for which flag to display
+    String WhichFlag; // will hold which flag to display
    
     public BottomPanel (int width, int height)
     {
@@ -64,7 +62,7 @@ public class BottomPanel extends JPanel
         setBackground(Color.RED);
         setOpaque(true);
         coverLbl = new JLabel();
-        // a picture of Betsy Ross working on flag with three friends provides cover
+        // a picture of Betsy Ross working on flag with three friends provides a cover
         icon = new ImageIcon(getClass().getResource("/org/resources/BetsyRoss.png"));
         img = icon.getImage();
         imgScale = img.getScaledInstance(width, height, Image.SCALE_DEFAULT);
