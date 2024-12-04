@@ -15,9 +15,9 @@ public class TopPanel extends JPanel
     JScrollPane scrollPane;
     
     public String IntroText =  "This program displays flags adopted by the U.S. government from 1777 through 1817 as well as our present-day flag."
-            + " The top panel has a brief history of each flag and the lower panel displays it.\n\n"
+            + " The top panel will contain a brief history of each flag and the lower panel will display it.\n\n"
             + "Prior to 1817, a stripe was added for each new state that entered the Union. By that year and with a total of twenty states,"
-            + " the government realized it was no longer feasible to add stripes for new states. Thus with the 1817 flag, they adopted a proclamation"
+            + " the government realized it was no longer feasible to add a stripe for each new state. Thus with the 1817 flag, they adopted a proclamation"
             + " in which there would be thirteen red and white stripes representing the original colonies and a star to represent each state. Moving forward,"
             + " only stars were added as new states entered the Union. \n\n"
             + "Of these five flags, four have seven stripes alongside the blue canton. Only the Lewis and Clark flag differs with eight stripes. This design came about"
