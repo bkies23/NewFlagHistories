@@ -3,8 +3,6 @@ package org.files;
 
 import java.awt.Graphics;
 
-/* Programmer Brian Kies */
-
 public class PresentDayFlag extends Flag
 {
     public PresentDayFlag(int width, int height, Graphics g, int totalStripes, int stripesAdjacentCanton, int numOfStars) 
