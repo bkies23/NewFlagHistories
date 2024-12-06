@@ -3,8 +3,6 @@ package org.files;
 
 import java.awt.Graphics;
 
-/* Programmer Brian Kies */
- 
 public class OriginalThirteenStarFlag extends Flag
 {
     public OriginalThirteenStarFlag(int width, int height, Graphics g, int totalStripes, int stripesAdjacentCanton, int numOfStars) 
