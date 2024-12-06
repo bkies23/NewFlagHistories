@@ -4,8 +4,6 @@ package org.files;
 import java.awt.Color;
 import java.awt.Graphics;
 
-/* Programmer Brian Kies */
-
 public class LewisAndClarkFlag extends Flag
 {
     public LewisAndClarkFlag(int width, int height, Graphics g, int totalStripes, int stripesAdjacentCanton, int numOfStars) 
