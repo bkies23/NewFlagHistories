@@ -8,8 +8,6 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.*;
 
-/* Programmer Brian Kies */
-
 public class ControlPanel extends JPanel
 {
     JButton previousBtn = new JButton ("PREVIOUS");
