@@ -6,8 +6,6 @@ import java.awt.Graphics2D;
 import java.awt.Point;
 import java.awt.geom.Rectangle2D;
 
-/* Programmer Brian Kies */
-
 public class BetsyRossFlag extends Flag
 {
     public BetsyRossFlag (int width, int height, Graphics g, int totalStripes, int stripesAdjacentCanton, int numOfStars)
