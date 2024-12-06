@@ -5,8 +5,6 @@ import java.awt.*;
 import javax.swing.*;
 import javax.swing.border.*;
 
-/* Programmer Brian Kies */
-
 public class TopPanel extends JPanel
 {
     JTextArea textArea = new JTextArea();
