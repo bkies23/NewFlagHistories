@@ -7,8 +7,6 @@ import java.awt.Graphics;
 import javax.swing.ImageIcon;
 import javax.swing.JPanel;
 
-/* Programmer Brian Kies */
-
 // base class for all flags
 public class Flag extends JPanel
 {
