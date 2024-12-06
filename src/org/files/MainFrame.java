@@ -1,4 +1,3 @@
-
 package org.files;
 
 import java.awt.BorderLayout;
@@ -8,7 +7,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.*;
 
-/* Programmer Brian Kies */
+/* Designer and Programmer Brian Kies */
 
 public class MainFrame extends JFrame 
 {
