@@ -30,13 +30,13 @@ public class TopPanel extends JPanel
             + " Betsy accepted the offer, but suggested changing the 6-pointed star to the easier 5-pointed star and arranging them in a circle – the very same design that was"
             + " officially adopted by Congress as the national flag one year later on June 14, 1777.";
     
-    String Original13StarText = "Like many of the Founding Fathers, Francis Hopkinson was a man of many talents. An artist, a musician, a poet, a lawyer, a businessman,"
-            + " and a politician, he seemed to do just about everything. Included in his skillset was a knack for artistic design. This led to his involvement in"
+    String Original13StarText = "Like many of the Founding Fathers, Francis Hopkinson was a man of many talents. An artist, musician, poet, lawyer, businessman,"
+            + " and politician, he seemed to do just about everything. Included in his skillset was a knack for artistic design. This led to his involvement in"
             + " a number of design projects for the United States.\n\n" 
             + "Hopkinson developed many seals and symbols during the US’s infancy, including the Grand Seal of the United States. However, there’s no doubt"
             + " that his most important project was the national flag. He designed it while serving on the Continental Marine Committee, in a position known today"
             + " as the Secretary of the Navy. As a part of his design he went with the more difficult six-pointed star. In 1777, the flag was adopted as the US’s official national flag,"
-            + " and Hopkinson became the creator of the Stars and Stripes.";
+            + " and Hopkinson became creator of the Stars and Stripes.";
 
     String LewisAndClarkText = "On January 18, 1803, Thomas Jefferson sent a secret message to Congress asking for $2,500 to send an officer and"
             + " a dozen soldiers to explore the Missouri River, make diplomatic contact with Indians, expand the American fur trade, and locate"
